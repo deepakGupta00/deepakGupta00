@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @deepakGupta00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning java.
+- 
+- 📫 How to reach me 
+- email - guptadeepak6575@gmail.com
+- instagram - deepak_0000000
 
 <!---
 deepakGupta00/deepakGupta00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
