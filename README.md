@@ -4,7 +4,7 @@
 - 
 - 📫 How to reach me 
 - email - guptadeepak6575@gmail.com
-- instagram - https://www.instagram.com/deepak_0000000/
+- instagram - https://www.instagram.com/ddeeppaakk_/
 
 <!---
 deepakGupta00/deepakGupta00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
